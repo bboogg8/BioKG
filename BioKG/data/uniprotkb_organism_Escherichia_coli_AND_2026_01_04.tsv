@@ -1,0 +1,199 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	EC number
+A0A0H3KZS3	reviewed	D2HDH_PANAA	D-2-hydroxyglutarate dehydrogenase (D2HGDH) (EC 1.1.99.39)	ydiJ PAJ_1060	Pantoea ananatis (strain AJ13355)	1022	1.1.99.39
+A6XMY0	reviewed	ARA1_HYAAR	Arasin 1 (Ara-1) (Proline-rich antimicrobial peptide) (PR-AMP) (Pro-rich AMP)		Hyas araneus (Atlantic lyre crab) (Great spider crab)	64	
+D9PVP5	reviewed	FNO_METTM	F420-dependent NADP reductase (EC 1.5.1.40) (F420H2:NADP oxidoreductase)	fno MTBMA_c06980	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	224	1.5.1.40
+G3ECR1	reviewed	CAS9_STRTR	CRISPR-associated endonuclease Cas9 (EC 3.1.-.-) (St-Cas9)	cas9 csn1	Streptococcus thermophilus	1409	3.1.-.-
+J7QLC0	reviewed	CYAA_BORP1	Bifunctional hemolysin/adenylate cyclase (AC-HLY) (ACT) (Cyclolysin) [Cleaved into: Calmodulin-sensitive adenylate cyclase (EC 4.6.1.1) (ATP pyrophosphate-lyase) (Adenylyl cyclase); Hemolysin]	cya cyaA BN118_0468	Bordetella pertussis (strain ATCC 9797 / DSM 5571 / CCUG 30873 / LMG 14455 / NCTC 10739 / 18323)	1706	4.6.1.1
+O34344	reviewed	SDPC_BACSU	Sporulation delaying protein C (SdpC) (Cannibalism toxin SDP) (Killing factor SdpC) (Toxic peptide SdpC) [Cleaved into: Sporulation delaying protein (SDP)]	sdpC yvaY BSU33770	Bacillus subtilis (strain 168)	203	
+P00646	reviewed	CEA3_ECOLX	Colicin E3 (EC 4.6.1.-) (Colicin E3 A chain) (colE3) (Ribonuclease)	ceaC col	Escherichia coli	551	4.6.1.-
+P01241	reviewed	SOMA_HUMAN	Somatotropin (Growth hormone) (GH) (GH-N) (Growth hormone 1) (Pituitary growth hormone)	GH1	Homo sapiens (Human)	217	
+P02748	reviewed	CO9_HUMAN	Complement component C9 [Cleaved into: Complement component C9a; Complement component C9b]	C9	Homo sapiens (Human)	559	
+P03726	reviewed	EXLYS_BPT7	Peptidoglycan transglycosylase gp16 (EC 4.2.2.n1) (Internal core protein gp16)	16	Escherichia phage T7 (Bacteriophage T7)	1318	4.2.2.n1
+P04385	reviewed	GAL1_YEAST	Galactokinase (EC 2.7.1.6) (Galactose kinase)	GAL1 YBR020W YBR0302	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	528	2.7.1.6
+P04406	reviewed	G3P_HUMAN	Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (Peptidyl-cysteine S-nitrosylase GAPDH) (EC 2.6.99.-)	GAPDH GAPD CDABP0047 OK/SW-cl.12	Homo sapiens (Human)	335	1.2.1.12; 2.6.99.-
+P05414	reviewed	GOX_SPIOL	Glycolate oxidase (GAO) (GOX) (EC 1.1.3.15) (Short chain alpha-hydroxy acid oxidase)		Spinacia oleracea (Spinach)	369	1.1.3.15
+P05425	reviewed	COPB_ENTHA	Copper-exporting P-type ATPase B (EC 7.2.2.8) (Cu(+)-exporting ATPase)	copB EHR_09090	Enterococcus hirae (strain ATCC 9790 / DSM 20160 / JCM 8729 / LMG 6399 / NBRC 3181 / NCIMB 6459 / NCDO 1258 / NCTC 12367 / WDCM 00089 / R)	745	7.2.2.8
+P06736	reviewed	HLYC_ECOLX	Protein-lysine myristoyltransferase HlyC (EC 2.3.1.-) (Hemolysin C) (Hemolysin-activating lysine-acyltransferase HlyC) (Toxin-activating protein C, PHLY152)	hlyC	Escherichia coli	170	2.3.1.-
+P09598	reviewed	PHLC_BACCE	Phospholipase C (PLC) (EC 3.1.4.3) (Cereolysin A) (Phosphatidylcholine cholinephosphohydrolase)	plc	Bacillus cereus	283	3.1.4.3
+P09616	reviewed	HLA_STAAU	Alpha-hemolysin (Alpha-HL) (Alpha-toxin)	hly hla	Staphylococcus aureus	319	
+P09983	reviewed	HLYAC_ECOLX	Hemolysin, chromosomal	hlyA	Escherichia coli	1023	
+P0A6A3	reviewed	ACKA_ECOLI	Acetate kinase (EC 2.7.2.1) (Acetokinase)	ackA ack b2296 JW2293	Escherichia coli (strain K12)	400	2.7.2.1
+P0A6M4	reviewed	DTD_ECOLI	D-aminoacyl-tRNA deacylase (DTD) (EC 3.1.1.96) (D-tyrosyl RNA deacylase) (D-tyrosyl-tRNA(Tyr) deacylase) (Gly-tRNA(Ala) deacylase) (Gly-tRNA(Gly) deacylase)	dtd yihZ b3887 JW3858	Escherichia coli (strain K12)	145	3.1.1.96
+P0A832	reviewed	SSRP_ECOLI	SsrA-binding protein (Small protein B)	smpB smqB b2620 JW2601	Escherichia coli (strain K12)	160	
+P0AEJ6	reviewed	EUTB_ECOLI	Ethanolamine ammonia-lyase large subunit (EAL large subunit) (EC 4.3.1.7) (Ethanolamine ammonia-lyase alpha subunit) (Ethanolamine ammonia-lyase heavy chain) (Ethanolamine deaminase large subunit)	eutB b2441 JW2434	Escherichia coli (strain K12)	453	4.3.1.7
+P0AFB1	reviewed	NLPI_ECOLI	Lipoprotein NlpI	nlpI yhbM b3163 JW3132	Escherichia coli (strain K12)	294	
+P10868	reviewed	GAMT_RAT	Guanidinoacetate N-methyltransferase (EC 2.1.1.2)	Gamt	Rattus norvegicus (Rat)	236	2.1.1.2
+P10912	reviewed	GHR_HUMAN	Growth hormone receptor (GH receptor) (Somatotropin receptor) [Cleaved into: Growth hormone-binding protein (GH-binding protein) (GHBP) (Serum-binding protein)]	GHR	Homo sapiens (Human)	638	
+P13128	reviewed	TACY_LISMO	Listeriolysin O (LLO) (Thiol-activated cytolysin)	hly hlyA lisA lmo0202	Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e)	529	
+P13304	reviewed	ANTIH_BPT4	Antiholin (Protein rI)	rI 58.6 rIA tk.-2	Enterobacteria phage T4 (Bacteriophage T4)	97	
+P16009	reviewed	NEEDL_BPT4	Pre-baseplate central spike protein Gp5 (Pre-Gp5) (Peptidoglycan hydrolase gp5) (EC 3.2.1.17) [Cleaved into: Baseplate central spike protein Gp5* (Mature Gp5); Gp5C]	5	Enterobacteria phage T4 (Bacteriophage T4)	575	3.2.1.17
+P21472	reviewed	RS12_BACSU	Small ribosomal subunit protein uS12 (30S ribosomal protein S12) (BS12)	rpsL fun strA BSU01100	Bacillus subtilis (strain 168)	138	
+P21964	reviewed	COMT_HUMAN	Catechol O-methyltransferase (EC 2.1.1.6)	COMT	Homo sapiens (Human)	271	2.1.1.6
+P24554	reviewed	RADA_ECOLI	DNA repair protein RadA (EC 3.6.4.-) (Branch migration protein RadA) (DNA repair protein Sms)	radA sms b4389 JW4352	Escherichia coli (strain K12)	460	3.6.4.-
+P27380	reviewed	EXLYS_BPPRD	Transglycosylase (EC 4.2.2.n1) (Protein P7)	VII	Enterobacteria phage PRD1 (Bacteriophage PRD1)	265	4.2.2.n1
+P29250	reviewed	LOX2_ORYSJ	Linoleate 9S-lipoxygenase 2 (EC 1.13.11.58) (Lipoxygenase 2) (Lipoxygenase L-2)	LOX1.1 Os03g0738600 LOC_Os03g52860 OsJ_12500 OSJNBa0057G07.15	Oryza sativa subsp. japonica (Rice)	870	1.13.11.58
+P31107	reviewed	DRS2_PHYBI	Dermaseptin-B2 (DRS-B2) (Adenoregulin) (Dermaseptin BII)	ADR	Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor)	81	
+P31228	reviewed	OXDD_BOVIN	D-aspartate oxidase (DASOX) (DASPO) (DDO) (EC 1.4.3.1)	DDO	Bos taurus (Bovine)	341	1.4.3.1
+P36556	reviewed	BASR_SALTY	Transcriptional regulatory protein BasR	basR parA pmrA STM4292	Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)	222	
+P68699	reviewed	ATPL_ECOLI	ATP synthase subunit c (ATP synthase F(0) sector subunit c) (Dicyclohexylcarbodiimide-binding protein) (F-type ATPase subunit c) (F-ATPase subunit c) (Lipid-binding protein)	atpE papH uncE b3737 JW3715	Escherichia coli (strain K12)	79	
+P77335	reviewed	HLYE_ECOLI	Hemolysin E, chromosomal (Cytotoxin ClyA) (Hemolysis-inducing protein) (Latent pore-forming 34 kDa hemolysin) (Silent hemolysin SheA)	hlyE clyA hpr sheA ycgD b1182 JW5181	Escherichia coli (strain K12)	303	
+Q0E9H9	reviewed	DSCA1_DROME	Cell adhesion molecule Dscam1 (Down syndrome cell adhesion molecule homolog)	Dscam1 Dscam p270 CG17800	Drosophila melanogaster (Fruit fly)	2016	
+Q0T963	reviewed	CDIA_ECOL5	tRNA nuclease CdiA (tRNase CdiA) (EC 3.1.-.-) (Anticodon nuclease CdiA) (CdiA-EC536) (Toxin CdiA)	cdiA ECP_4580	Escherichia coli O6:K15:H31 (strain 536 / UPEC)	3242	3.1.-.-
+Q0TV31	reviewed	PHLC_CLOP1	Phospholipase C (PLC) (EC 3.1.4.3) (Alpha-toxin) (Hemolysin) (Lecithinase) (Phosphatidylcholine cholinephosphohydrolase)	plc cpa CPF_0042	Clostridium perfringens (strain ATCC 13124 / DSM 756 / JCM 1290 / NCIMB 6125 / NCTC 8237 / Type A)	398	3.1.4.3
+Q29983	reviewed	MICA_HUMAN	MHC class I polypeptide-related sequence A (MIC-A)	MICA PERB11.1	Homo sapiens (Human)	383	
+Q61586	reviewed	GPAT1_MOUSE	Glycerol-3-phosphate acyltransferase 1, mitochondrial (GPAT-1) (EC 2.3.1.15) (P90)	Gpam Gpat1	Mus musculus (Mouse)	827	2.3.1.15
+Q62930	reviewed	CO9_RAT	Complement component C9	C9	Rattus norvegicus (Rat)	554	
+Q6PQK2	reviewed	NP7_RHOPR	Nitrophorin-7 (NP7) (EC 1.7.6.1) (Nitrite dismutase)		Rhodnius prolixus (Triatomid bug)	205	1.7.6.1
+Q6QGE7	reviewed	TMP_BPT5	Tape measure protein pb2 precursor (TMP-pb2) (Pore-forming protein pb2) (Tail protein pb2) [Cleaved into: Tape measure protein pb2; Exolysin (EC 4.2.2.n1)]	D18-19 T5.140 T5p136	Escherichia phage T5 (Enterobacteria phage T5)	1219	4.2.2.n1
+Q75WF1	reviewed	OXDD_VANHU	D-aspartate oxidase (ChDASPO) (ChDDO) (DASOX) (DASPO) (DDO) (EC 1.4.3.1)	DDO	Vanrija humicola (Yeast) (Cryptococcus humicola)	370	1.4.3.1
+Q99042	reviewed	OXDA_TRIVR	D-amino-acid oxidase (DAAO) (DAMOX) (DAO) (EC 1.4.3.3) (TvDAO1)	DAO1	Trigonopsis variabilis (Yeast)	356	1.4.3.3
+Q99497	reviewed	PARK7_HUMAN	Parkinson disease protein 7 (Maillard deglycase) (Oncogene DJ1) (Parkinsonism-associated deglycase) (Protein DJ-1) (DJ-1) (Protein/nucleic acid deglycase DJ-1) (EC 3.1.2.-, EC 3.5.1.-, EC 3.5.1.124)	PARK7	Homo sapiens (Human)	189	3.1.2.-; 3.5.1.-; 3.5.1.124
+Q9X2V7	reviewed	MCJA_ECOLX	Microcin J25 (MccJ25) (Class II lasso peptide) (Ribosomally synthesized and post-translationally modified peptide) (RiPP)	mcjA	Escherichia coli	58	
+C0PBF8	reviewed	OXDA_MAIZE	D-amino-acid oxidase (DAAO) (DAMOX) (DAO) (EC 1.4.3.3) (D-aspartate oxidase) (DASOX) (DASPO) (DDO) (EC 1.4.3.1) (ZmDAAO)	DAO ZEAMMB73_Zm00001d018820	Zea mays (Maize)	386	1.4.3.1; 1.4.3.3
+D0EXD3	reviewed	AFP_PENCH	Antifungal protein B	pafB	Penicillium chrysogenum (Penicillium notatum)	92	
+O32591	reviewed	ESPP_ECOLX	Serine protease EspP (EC 3.4.21.-) [Cleaved into: Secreted autotransporter protein EspP (Extracellular serine protease plasmid-encoded EspP); Autotransporter protein EspP translocator]	espP pssA	Escherichia coli	1300	3.4.21.-
+O33174	reviewed	HPRT_METTM	Hypoxanthine/guanine phosphoribosyltransferase (HGPRTase) (EC 2.4.2.8) (Hypoxanthine (guanine) phosphoribosyltransferase)	hpt MTBMA_c17060	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	193	2.4.2.8
+P08083	reviewed	CEAN_ECOLX	Colicin-N	cna	Escherichia coli	387	
+P08715	reviewed	HLYAP_ECOLX	Hemolysin, plasmid	hlyA	Escherichia coli	1024	
+P08895	reviewed	RL5_GEOSE	Large ribosomal subunit protein uL5 (50S ribosomal protein L5) (BL5) (BstL5)	rplE	Geobacillus stearothermophilus (Bacillus stearothermophilus)	179	
+P09883	reviewed	CEA9_ECOLX	Colicin-E9 (EC 3.1.-.-)	col cei	Escherichia coli	582	3.1.-.-
+P0A3I5	reviewed	CYAC_BORPE	Protein-lysine palmitoyltransferase CyaC (EC 2.3.1.-) (Cyclolysin-activating lysine-acyltransferase CyaC)	cyaC hlyC BP0758	Bordetella pertussis (strain Tohama I / ATCC BAA-589 / NCTC 13251)	185	2.3.1.-
+P0A7Y2	reviewed	RNC_ECO57	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc Z3848 ECs3433	Escherichia coli O157:H7	226	3.1.26.3
+P0DQX6	reviewed	COD_COLDA	Codesane (COD) (Codesan)		Colletes daviesanus (Plasterer bee)	18	
+P11295	reviewed	IUCD_ECOLX	L-lysine N6-monooxygenase (EC 1.14.13.59) (Lysine 6-N-hydroxylase) (Lysine N6-hydroxylase) (Lysine-N-oxygenase)	iucD aerA	Escherichia coli	425	1.14.13.59
+P11889	reviewed	PHL2_BACCE	Sphingomyelinase C (SMase) (EC 3.1.4.12) (Cereolysin B) (SMPLC) (Sphingomyelin phosphodiesterase)	sph	Bacillus cereus	333	3.1.4.12
+P18579	reviewed	MURB_BACSU	UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98) (UDP-N-acetylmuramate dehydrogenase)	murB ylxC BSU15230	Bacillus subtilis (strain 168)	303	1.3.1.98
+P32890	reviewed	ELBP_ECOLX	Heat-labile enterotoxin B chain (LT-B, porcine) (LTP-B)	eltB ltpB	Escherichia coli	124	
+P51616	reviewed	MCH_METTM	Methenyltetrahydromethanopterin cyclohydrolase (EC 3.5.4.27) (Methenyl-H4MPT cyclohydrolase)	mch MTBMA_c11690	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	320	3.5.4.27
+P55299	reviewed	METE_METTM	Methionine synthase (EC 2.1.1.-) (Homocysteine methyltransferase) (Methylcobalamin:homocysteine methyltransferase)	metE MTBMA_c11710	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	309	2.1.1.-
+P55300	reviewed	MTD_METTM	F420-dependent methylenetetrahydromethanopterin dehydrogenase (MTD) (EC 1.5.98.1) (Coenzyme F420-dependent N5,N10-methylenetetrahydromethanopterin dehydrogenase)	mtd MTBMA_c00500	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	276	1.5.98.1
+P80305	reviewed	TYSY_METTM	Putative thymidylate synthase (TS) (TSase) (EC 2.1.1.-)	thyA MTBMA_c11700	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	223	2.1.1.-
+P80862	reviewed	SERC_BACSU	Phosphoserine aminotransferase (EC 2.6.1.52) (Phosphohydroxythreonine aminotransferase) (PSAT) (Vegetative protein 234) (VEG234)	serC yhaF BSU10020	Bacillus subtilis (strain 168)	359	2.6.1.52
+P84914	reviewed	MAST3_POLPI	Polybia-mastoparan-III (Polybia-MP-III) (Polybia-MPIII) (Mastoparan peptide) (MP) (Venom protein 13b) (VP13b)		Polybia paulista (Neotropical social wasp) (Swarm-founding polistine wasp)	14	
+P84915	reviewed	MAST2_POLPI	Polybia-MP-II (Polybia-MPII) (Venom protein 13a) (VP13a)		Polybia paulista (Neotropical social wasp) (Swarm-founding polistine wasp)	14	
+Q0KK59	reviewed	UNC79_MOUSE	Protein unc-79 homolog	Unc79 Kiaa1409	Mus musculus (Mouse)	2596	
+Q30KP8	reviewed	DB136_HUMAN	Defensin beta 136 (Beta-defensin 136) (DEFB137)	DEFB136	Homo sapiens (Human)	78	
+Q46971	reviewed	MCNN_ECOLX	Microcin N (Colicin 24) (Microcin-24) (Mcc24)	mcnN mtfS	Escherichia coli	89	
+Q47112	reviewed	CEA7_ECOLX	Colicin-E7 (EC 3.1.-.-)	colE7 cea	Escherichia coli	576	3.1.-.-
+Q50744	reviewed	MER_METTM	5,10-methylenetetrahydromethanopterin reductase (EC 1.5.98.2) (Coenzyme F420-dependent N(5),N(10)-methylenetetrahydromethanopterin reductase) (Methylene-H(4)MPT reductase)	mer MTBMA_c03270	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	321	1.5.98.2
+Q50756	reviewed	HDRA_METTM	H(2):CoB-CoM heterodisulfide,ferredoxin reductase subunit A (EC 1.8.98.5) (CoB--CoM heterodisulfide reductase iron-sulfur subunit A)	hdrA MTBMA_c17680	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	659	1.8.98.5
+Q52698	reviewed	RNC_RHOCA	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc	Rhodobacter capsulatus (Rhodopseudomonas capsulata)	228	3.1.26.3
+Q6XQ97	reviewed	SPANU_BPT1	U-spanin (Gene product 11) (Unimolecular spanin) (gp11)	11	Escherichia phage T1 (Bacteriophage T1)	133	
+Q83RJ4	reviewed	IPA3_SHIFL	E3 ubiquitin-protein ligase ipaH3 (EC 2.3.2.27) (RING-type E3 ubiquitin transferase ipaH3)	ipaH3 SF1383	Shigella flexneri	571	2.3.2.27
+Q99289	reviewed	HLT_VIBPA	Thermolabile hemolysin (TL) (Atypical phospholipase) (Lecithin-dependent hemolysin) (LDH) (Lysophospholipase) (Phospholipase A2)	VPA0226	Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633)	418	
+Q9Z4N4	reviewed	MCEA_KLEPN	Microcin E492 (MccE492)	mceA	Klebsiella pneumoniae	99	
+W6HZ31	reviewed	IRSPI_IXORI	Kunitz-type serine protease inhibitor IrSPI (IrSPI) (BPTI/Kunitz family serine protease inhibitor) (Kunitz elastase inhibitor)	SPI	Ixodes ricinus (Common tick) (Acarus ricinus)	94	
+A1ADV4	reviewed	EUTC_ECOK1	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC Ecok1_23500 APECO1_4108	Escherichia coli O1:K1 / APEC	295	4.3.1.7
+A1AE97	reviewed	RNC_ECOK1	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc Ecok1_24930 APECO1_3964	Escherichia coli O1:K1 / APEC	226	3.1.26.3
+A7ZPP0	reviewed	EUTC_ECO24	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC EcE24377A_2726	Escherichia coli O139:H28 (strain E24377A / ETEC)	295	4.3.1.7
+A7ZQ11	reviewed	RNC_ECO24	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc EcE24377A_2853	Escherichia coli O139:H28 (strain E24377A / ETEC)	226	3.1.26.3
+A8A2T8	reviewed	EUTC_ECOHS	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC EcHS_A2577	Escherichia coli O9:H4 (strain HS)	295	4.3.1.7
+A8A377	reviewed	RNC_ECOHS	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc EcHS_A2722	Escherichia coli O9:H4 (strain HS)	226	3.1.26.3
+B1IVR0	reviewed	RNC_ECOLC	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc EcolC_1110	Escherichia coli (strain ATCC 8739 / DSM 1576 / NBRC 3972 / NCIMB 8545 / WDCM 00012 / Crooks)	226	3.1.26.3
+B1IWM2	reviewed	EUTC_ECOLC	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC EcolC_1239	Escherichia coli (strain ATCC 8739 / DSM 1576 / NBRC 3972 / NCIMB 8545 / WDCM 00012 / Crooks)	295	4.3.1.7
+B1LMN4	reviewed	EUTC_ECOSM	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC EcSMS35_2595	Escherichia coli (strain SMS-3-5 / SECEC)	295	4.3.1.7
+B1LP80	reviewed	RNC_ECOSM	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc EcSMS35_2720	Escherichia coli (strain SMS-3-5 / SECEC)	226	3.1.26.3
+B1XAB1	reviewed	EUTC_ECODH	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC ECDH10B_2605	Escherichia coli (strain K12 / DH10B)	295	4.3.1.7
+B1XB41	reviewed	RNC_ECODH	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc ECDH10B_2735	Escherichia coli (strain K12 / DH10B)	226	3.1.26.3
+B5YZY5	reviewed	EUTC_ECO5E	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC ECH74115_3670	Escherichia coli O157:H7 (strain EC4115 / EHEC)	295	4.3.1.7
+B5Z141	reviewed	RNC_ECO5E	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc ECH74115_3803	Escherichia coli O157:H7 (strain EC4115 / EHEC)	226	3.1.26.3
+B6I516	reviewed	EUTC_ECOSE	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC ECSE_2730	Escherichia coli (strain SE11)	295	4.3.1.7
+B6I5E1	reviewed	RNC_ECOSE	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc ECSE_2855	Escherichia coli (strain SE11)	226	3.1.26.3
+B7LCI4	reviewed	EUTC_ECO55	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC EC55989_2729	Escherichia coli (strain 55989 / EAEC)	295	4.3.1.7
+B7LDG0	reviewed	RNC_ECO55	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc EC55989_2855	Escherichia coli (strain 55989 / EAEC)	226	3.1.26.3
+B7LKJ3	reviewed	EUTC_ESCF3	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC EFER_0730	Escherichia fergusonii (strain ATCC 35469 / DSM 13698 / CCUG 18766 / IAM 14443 / JCM 21226 / LMG 7866 / NBRC 102419 / NCTC 12128 / CDC 0568-73)	295	4.3.1.7
+B7LUZ7	reviewed	RNC_ESCF3	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc EFER_0507	Escherichia fergusonii (strain ATCC 35469 / DSM 13698 / CCUG 18766 / IAM 14443 / JCM 21226 / LMG 7866 / NBRC 102419 / NCTC 12128 / CDC 0568-73)	226	3.1.26.3
+B7M7E9	reviewed	EUTC_ECO8A	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC ECIAI1_2497	Escherichia coli O8 (strain IAI1)	295	4.3.1.7
+B7M8I0	reviewed	RNC_ECO8A	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc ECIAI1_2678	Escherichia coli O8 (strain IAI1)	226	3.1.26.3
+B7MHU1	reviewed	EUTC_ECO45	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC ECS88_2628	Escherichia coli O45:K1 (strain S88 / ExPEC)	295	4.3.1.7
+B7MIQ2	reviewed	RNC_ECO45	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc ECS88_2740	Escherichia coli O45:K1 (strain S88 / ExPEC)	226	3.1.26.3
+B7MXU7	reviewed	EUTC_ECO81	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC ECED1_2882	Escherichia coli O81 (strain ED1a)	295	4.3.1.7
+B7MYJ8	reviewed	RNC_ECO81	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc ECED1_2996	Escherichia coli O81 (strain ED1a)	226	3.1.26.3
+B7N630	reviewed	EUTC_ECOLU	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC ECUMN_2761	Escherichia coli O17:K52:H18 (strain UMN026 / ExPEC)	295	4.3.1.7
+B7N6F5	reviewed	RNC_ECOLU	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc ECUMN_2888	Escherichia coli O17:K52:H18 (strain UMN026 / ExPEC)	226	3.1.26.3
+B7NPX6	reviewed	EUTC_ECO7I	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC ECIAI39_2585	Escherichia coli O7:K1 (strain IAI39 / ExPEC)	295	4.3.1.7
+B7NRM0	reviewed	RNC_ECO7I	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc ECIAI39_2772	Escherichia coli O7:K1 (strain IAI39 / ExPEC)	226	3.1.26.3
+B7UH07	reviewed	RNC_ECO27	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc E2348C_2844	Escherichia coli O127:H6 (strain E2348/69 / EPEC)	226	3.1.26.3
+C4ZX13	reviewed	EUTC_ECOBW	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC BWG_2202	Escherichia coli (strain K12 / MC4100 / BW2952)	295	4.3.1.7
+C4ZYJ0	reviewed	RNC_ECOBW	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc BWG_2331	Escherichia coli (strain K12 / MC4100 / BW2952)	226	3.1.26.3
+N0EAL3	reviewed	NDB28_ANDMU	Mauriporin (Non-disulfide-bridged peptide 2.8) (NDBP-2.8)		Androctonus mauritanicus (Fat-tailed scorpion)	73	
+O34163	reviewed	ACP_BRAHO	Acyl carrier protein (ACP) [Cleaved into: Beta-hemolysin]	acpP hlyA	Brachyspira hyodysenteriae (Treponema hyodysenteriae)	78	
+O64362	reviewed	ENLYS_BPN15	SAR-endolysin (EC 3.2.1.17) (Endolysin) (Gene product 54) (gp54) (Lysis protein) (Lysozyme) (Muramidase)	54	Escherichia phage N15 (Bacteriophage N15)	178	3.2.1.17
+O68677	reviewed	GVPA2_PRIMG	Gas vesicle protein A2 (GvpA2) (Gas vesicle structural protein B) (GvpB)	gvpA2 gvpB	Priestia megaterium (Bacillus megaterium)	88	
+O68680	reviewed	GVPA1_PRIMG	Gas vesicle protein A1 (GvpA1) (Gas vesicle structural protein A) (GvpA)	gvpA1 gvpA	Priestia megaterium (Bacillus megaterium)	86	
+O68973	reviewed	APCE_PICP2	Phycobiliprotein ApcE (EC 4.-.-.-) (Phycobilisome core-membrane linker phycobiliprotein ApcE)	apcE SYNPCC7002_A2009	Picosynechococcus sp. (strain ATCC 27264 / PCC 7002 / PR-6) (Agmenellum quadruplicatum)	886	4.-.-.-
+P00645	reviewed	CEAC_ECOLX	Cloacin (EC 3.1.-.-) (Ribonuclease)	ccl	Escherichia coli	561	3.1.-.-
+P02978	reviewed	CEA1_ECOLX	Colicin-E1	cea	Escherichia coli	522	
+P03609	reviewed	LYS_BPMS2	Lysis protein (L protein)		Escherichia phage MS2 (Bacteriophage MS2)	75	
+P04419	reviewed	CEA2_ECOLX	Colicin-E2 (EC 3.1.-.-)	col ceaB	Escherichia coli	581	3.1.-.-
+P04479	reviewed	CEIB_ECOLX	Colicin-Ib	cib	Escherichia coli	626	
+P05819	reviewed	CEAB_ECOLX	Colicin-B	cba	Escherichia coli	511	
+P05834	reviewed	MCBA_ECOLX	Bacteriocin microcin B17 (MccB17)	mcbA	Escherichia coli	69	
+P06716	reviewed	CEIA_ECOLX	Colicin-Ia	cia	Escherichia coli	626	
+P09882	reviewed	CEA8_ECOLX	Colicin-E8 (EC 3.1.-.-)	col	Escherichia coli	205	3.1.-.-
+P09984	reviewed	HLYC1_ECOLX	Protein-lysine myristoyltransferase HlyC (EC 2.3.1.-) (Hemolysin C) (Hemolysin-activating lysine-acyltransferase HlyC) (Toxin-activating protein C, J96)	hlyC	Escherichia coli	170	2.3.1.-
+P09985	reviewed	HLYC2_ECOLX	Protein-lysine myristoyltransferase HlyC (EC 2.3.1.-) (Hemolysin C) (Hemolysin-activating lysine-acyltransferase HlyC) (Toxin-activating protein C, 2001)	hlyC	Escherichia coli	174	2.3.1.-
+P09986	reviewed	HLYDC_ECOLX	Hemolysin secretion protein D, chromosomal	hlyD	Escherichia coli	478	
+P0A4A7	reviewed	RS12_STRPN	Small ribosomal subunit protein uS12 (30S ribosomal protein S12)	rpsL str SP_0271	Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)	137	
+P0A7Y1	reviewed	RNC_ECOL6	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc c3091	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	226	3.1.26.3
+P0A7Y3	reviewed	RNC_SHIFL	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc SF2629 S2802	Shigella flexneri	226	3.1.26.3
+P0AEJ7	reviewed	EUTB_ECO57	Ethanolamine ammonia-lyase large subunit (EAL large subunit) (EC 4.3.1.7)	eutB Z3706 ECs3312	Escherichia coli O157:H7	453	4.3.1.7
+P0DQT3	reviewed	MAST2_PARVS	Polybia-MP-II (Polybia-MPII)		Parachartergus vespiceps testaceus (Wasp)	14	
+P10439	reviewed	ENLYS_BPPA2	SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	15	Enterobacteria phage PA-2 (Bacteriophage PA-2)	165	3.2.1.17
+P11599	reviewed	HLYB_PROVU	Alpha-hemolysin translocation ATP-binding protein HlyB	hlyB	Proteus vulgaris	707	
+P14892	reviewed	CWLA_BACSP	N-acetylmuramoyl-L-alanine amidase CwlA (EC 3.5.1.28) (Autolysin) (Cell wall hydrolase)	cwlA	Bacillus sp	251	3.5.1.28
+P17998	reviewed	CEAD_ECOLX	Colicin-D	cda	Escherichia coli	697	
+P17999	reviewed	CEA6_ECOLX	Colicin-E6 (EC 3.1.-.-) (Ribonuclease)		Escherichia coli	551	3.1.-.-
+P22522	reviewed	CEAV_ECOLX	Colicin-V (Microcin-V bacteriocin)	cvaC	Escherichia coli	103	
+P27359	reviewed	ENLYS_BPP21	SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	R	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	165	3.2.1.17
+P37710	reviewed	ALYS_ENTFA	Autolysin (EC 3.2.1.-) (Beta-glycosidase) (Peptidoglycan hydrolase)	EF_0799	Enterococcus faecalis (strain ATCC 700802 / V583)	737	3.2.1.-
+P38613	reviewed	RL18A_SULAC	Large ribosomal subunit protein eL20 (50S ribosomal protein L18Ae) (50S ribosomal protein L20e) (50S ribosomal protein LX)	rpl18a rlx rpl20e rplX Saci_1464	Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770)	86	
+P50436	reviewed	GLYA_METTM	Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.-)	glyA MTBMA_c17670	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	423	2.1.2.-
+P68920	reviewed	ENLYS_BP933	SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	R L0108	Escherichia phage 933W (Bacteriophage 933W)	177	3.2.1.17
+P68921	reviewed	ENLYS_BPVT2	SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	R	Enterobacteria phage VT2-Sa (Bacteriophage VT2-Sa)	177	3.2.1.17
+P76159	reviewed	LYSQ_ECOLI	Probable prophage lysozyme (EC 3.2.1.17) (Endolysin) (Lysis protein) (Muramidase) (Probable lysozyme from lambdoid prophage Qin)	rrrQ arrQ ydfQ b1554 JW1546	Escherichia coli (strain K12)	177	3.2.1.17
+P86521	reviewed	AMP_LYMAR	Antimicrobial peptide 1b (LAMP-1b) [Cleaved into: Antimicrobial peptide 1a (LAMP-1a)]		Leymus arenarius (Lyme grass) (Elymus arenarius)	44	
+Q01360	reviewed	AMIE_RHOER	Aliphatic amidase (EC 3.5.1.4) (Acylamide amidohydrolase) (Wide spectrum amidase)	amiE amiP	Rhodococcus erythropolis (Arthrobacter picolinophilus)	345	3.5.1.4
+Q0TES1	reviewed	RNC_ECOL5	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc ECP_2569	Escherichia coli O6:K15:H31 (strain 536 / UPEC)	226	3.1.26.3
+Q0TF29	reviewed	EUTC_ECOL5	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC ECP_2461	Escherichia coli O6:K15:H31 (strain 536 / UPEC)	295	4.3.1.7
+Q1R8G6	reviewed	RNC_ECOUT	Ribonuclease 3 (EC 3.1.26.3) (Ribonuclease III) (RNase III)	rnc UTI89_C2888	Escherichia coli (strain UTI89 / UPEC)	226	3.1.26.3
+Q1R8T1	reviewed	EUTC_ECOUT	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC UTI89_C2773	Escherichia coli (strain UTI89 / UPEC)	295	4.3.1.7
+Q47108	reviewed	CEA_ECOLX	Colicin-A	caa	Escherichia coli	204	
+Q47125	reviewed	CE10_ECOLX	Colicin-10	cta	Escherichia coli	490	
+Q47500	reviewed	CE05_ECOLX	Colicin-5	cfa	Escherichia coli	490	
+Q47502	reviewed	CEAK_ECOLX	Colicin-K	cka	Escherichia coli	548	
+Q6XQ98	reviewed	ENLYS_BPT1	SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	12	Escherichia phage T1 (Bacteriophage T1)	162	3.2.1.17
+Q8FFA1	reviewed	EUTC_ECOL6	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC c2974	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	295	4.3.1.7
+Q8XEH3	reviewed	EUTC_ECO57	Ethanolamine ammonia-lyase small subunit (EAL small subunit) (EC 4.3.1.7)	eutC Z3705 ECs3311	Escherichia coli O157:H7	295	4.3.1.7
+Q969A1	reviewed	HLTNI_HAELO	Troponin I-like protein (HLTnI)	p27/30	Haemaphysalis longicornis (Bush tick)	200	
+Q9JN69	reviewed	HPPE_PSESX	(S)-2-hydroxypropylphosphonic acid epoxidase (EC 1.11.1.23) (Hydroxypropylphosphonate epoxidase) (Ps-hppE)	hppE	Pseudomonas syringae	190	1.11.1.23
+Q9REB3	reviewed	HLYE_ECO57	Hemolysin E (Cytotoxin ClyA) (Silent hemolysin SheA)	hlyE clyA sheA Z1944 ECs1677	Escherichia coli O157:H7	303	
+Q9ZXB7	reviewed	ENLYS_BPH19	SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	R	Enterobacteria phage H19B (Bacteriophage H19B)	177	3.2.1.17
+S4S2C7	reviewed	MAST_VESAF	Mastoparan-AF (MP-AF)		Vespa affinis (Lesser banded hornet)	62	
+C0HLK8	reviewed	PERI2_PERAM	Periplanetasin-2 (Peri-2)		Periplaneta americana (American cockroach) (Blatta americana)	15	
+H6VUC3	reviewed	DISRP_BPPKT	Disruptin gp28	phiKT_00028	Escherichia phage phiKT	56	
+O64306	reviewed	MATA2_BPMX1	Maturation protein A2 (MP) (A2) (Assembly protein) (A protein)	A	Qbeta virus (strain MX1)	421	
+O68669	reviewed	GVPJ_PRIMG	Gas vesicle protein J (GvpJ)	gvpJ	Priestia megaterium (Bacillus megaterium)	100	
+P03640	reviewed	VGE_BPG4	Lysis protein (E protein) (GPE)	E	Escherichia phage G4 (Bacteriophage G4)	96	
+P03788	reviewed	SPAN2_BPT7	Spanin, outer lipoprotein subunit (o-spanin) (Gene product 18.7) (Gp18.7) (Protein 18.7)	18.7	Escherichia phage T7 (Bacteriophage T7)	83	
+P05820	reviewed	CEAM_ECOLX	Colicin-M	cma	Escherichia coli	271	
+P06739	reviewed	HLYDP_ECOLX	Hemolysin secretion protein D, plasmid	hlyD	Escherichia coli	478	
+P07233	reviewed	LYS_BPGA	Lysis protein		Enterobacteria phage GA (Bacteriophage GA)	63	
+P09676	reviewed	MATA2_BPSP	Maturation protein A2 (MP) (A2) (Assembly protein) (A protein)	A	Enterobacteria phage SP (Bacteriophage SP)	450	
+P10302	reviewed	SPAN2_BPT3	Spanin, outer lipoprotein subunit (o-spanin) (Gene product 18.7) (Gp18.7) (Protein 18.7)	18.7	Enterobacteria phage T3 (Bacteriophage T3)	83	
+P18000	reviewed	CEA5_ECOLX	Colicin-E5 (EC 3.1.-.-)	col	Escherichia coli	180	3.1.-.-
+P19903	reviewed	LYS_BPFR	Lysis protein		Enterobacteria phage fr (Bacteriophage fr)	71	
+P23619	reviewed	HLYX_ACTPL	Regulatory protein HlyX	hlyX	Actinobacillus pleuropneumoniae (Haemophilus pleuropneumoniae)	240	
+P31280	reviewed	VGE_BPAL3	Lysis protein (E protein) (GPE)	E	Escherichia phage alpha3 (Bacteriophage alpha-3)	75	
+P34702	reviewed	LYS_BPJP3	Lysis protein		Enterobacteria phage JP34 (Bacteriophage JP34)	63	
+P35518	reviewed	LCNB_LACLC	Bacteriocin lactococcin-B (LCN-B)	lcnB	Lactococcus lactis subsp. cremoris (Streptococcus cremoris)	68	
+P46028	reviewed	HLY2_ACTPL	21 kDa hemolysin	hly	Actinobacillus pleuropneumoniae (Haemophilus pleuropneumoniae)	194	
+P62530	reviewed	MCHB_ECOLX	Microcin H47 (MccH47)	mchB	Escherichia coli	75	
+P62531	reviewed	MCHB_ECOL6	Microcin H47 (MccH47)	mchB c1227	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	75	
+Q38040	reviewed	VGE_BPPHK	Lysis protein (E protein) (GPE)	E	Enterobacteria phage phiK (Bacteriophage phi-K)	75	
+Q50770	reviewed	Y049_METTM	Uncharacterized protein MTBMA_c00490 (ORFX)	MTBMA_c00490	Methanothermobacter marburgensis (strain ATCC BAA-927 / DSM 2133 / JCM 14651 / NBRC 100331 / OCM 82 / Marburg) (Methanobacterium thermoautotrophicum)	142	
+Q6XQ99	reviewed	HOLIN_BPT1	Holin (Pinholin)	13	Escherichia phage T1 (Bacteriophage T1)	71	
+P04481	reviewed	YPCB_ECOLX	Uncharacterized protein in cib 5'region		Escherichia coli	216	
+Q8FI27	reviewed	HLYEL_ECOL6	Putative hemolysin E-like protein	c1630	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	93	
+Q9RCT3	reviewed	HLYEL_SHIFL	Putative hemolysin E-like protein	SF1171 S1259	Shigella flexneri	113	
+Q9T1T7	reviewed	VLYS_BPAPS	Putative lysis protein S (p11)	11	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	94	
