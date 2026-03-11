@@ -121,5 +121,3 @@ python main.py --ask "LDHA" --model "llama2"
 
 ## 贡献
 欢迎提交问题和拉取请求！
-
-## 许可证
