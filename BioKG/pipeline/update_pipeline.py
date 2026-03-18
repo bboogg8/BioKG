@@ -11,7 +11,7 @@ import datetime
 
 # 配置参数
 QUERY = "glycolysis enzyme human"
-RETMAX = 120  # 每次获取最新的10篇
+RETMAX = 10  # 每次获取最新的10篇
 
 def build_dynamic_dict(driver):
     """
