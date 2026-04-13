@@ -1,0 +1,85 @@
+# =========================
+# Python bytecode / cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Test / lint / type-check cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# =========================
+# IDE / editor
+# =========================
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs / runtime files
+# =========================
+*.log
+*.pid
+*.tmp
+tmp/
+temp/
+
+# =========================
+# Env / secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# =========================
+# Project-specific generated artifacts
+# =========================
+BioKG/**/__pycache__/
+
