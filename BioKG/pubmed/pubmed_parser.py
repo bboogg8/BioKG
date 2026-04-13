@@ -6,7 +6,7 @@ import re
 from thefuzz import process, fuzz
 from .pubmed_api import fetch_abstract
 
-from pubmed.pubmed_writer import write_publication
+from .pubmed_writer import write_publication
 
 # Load model
 try:

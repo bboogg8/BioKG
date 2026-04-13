@@ -1,6 +1,6 @@
 import requests
 import json
-from neo4j_utils.neo4j_conn import get_driver
+from ..neo4j_utils.neo4j_conn import get_driver
 
 def generate_answer_with_ollama(prompt, model_name="deepseek-r1:7b"):
     """

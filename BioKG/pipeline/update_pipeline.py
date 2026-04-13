@@ -3,10 +3,10 @@
 # PubMed → Neo4j 自动更新流水线（数据清洗+高质量对齐版）
 # ==========================================
 
-from neo4j_utils.neo4j_conn import get_driver
-from pubmed.pubmed_api import search_pubmed, fetch_abstract
-from pubmed.pubmed_writer import write_publication
-from pubmed.pubmed_parser import PubMedParser
+from ..neo4j_utils.neo4j_conn import get_driver
+from ..pubmed.pubmed_api import search_pubmed, fetch_abstract
+from ..pubmed.pubmed_writer import write_publication
+from ..pubmed.pubmed_parser import PubMedParser
 import datetime
 
 # 配置参数

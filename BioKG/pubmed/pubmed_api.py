@@ -8,7 +8,7 @@ import time
 import requests
 import xml.etree.ElementTree as ET
 
-from config.config import (
+from ..config.config import (
     PUBMED_BASE_URL,
     PUBMED_ESEARCH_URL,
     PUBMED_EFETCH_URL,

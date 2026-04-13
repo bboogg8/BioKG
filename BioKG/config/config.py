@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-# config.py
-# ===============================
-# Global Configuration File (BioKG)
-# ===============================
+
 
 # ========== KEGG Configuration ==========
 KEGG_BASE_URL = "https://rest.kegg.jp"
