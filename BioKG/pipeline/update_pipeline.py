@@ -3,15 +3,21 @@
 # PubMed → Neo4j 自动更新流水线（数据清洗+高质量对齐版）
 # ==========================================
 
-from ..neo4j_utils.neo4j_conn import get_driver
-from ..pubmed.pubmed_api import search_pubmed, fetch_abstract
-from ..pubmed.pubmed_writer import write_publication
-from ..pubmed.pubmed_parser import PubMedParser
+try:
+    from BioKG.neo4j_utils.neo4j_conn import get_driver
+    from BioKG.pubmed.pubmed_api import search_pubmed, fetch_abstract
+    from BioKG.pubmed.pubmed_writer import write_publication
+    from BioKG.pubmed.pubmed_parser import PubMedParser
+except ModuleNotFoundError:
+    from neo4j_utils.neo4j_conn import get_driver
+    from pubmed.pubmed_api import search_pubmed, fetch_abstract
+    from pubmed.pubmed_writer import write_publication
+    from pubmed.pubmed_parser import PubMedParser
 import datetime
 
 # 配置参数
 QUERY = "glycolysis enzyme human"
-RETMAX = 10  # 每次获取最新的10篇
+RETMAX = 1000  # 每次获取最新的10篇
 
 def build_dynamic_dict(driver):
     """

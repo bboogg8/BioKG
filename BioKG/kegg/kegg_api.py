@@ -1,6 +1,10 @@
 # kegg_api.py
 import requests
-from config.config import KEGG_BASE_URL, ORGANISM
+
+try:
+    from BioKG.config.config import KEGG_BASE_URL, ORGANISM
+except ModuleNotFoundError:
+    from config.config import KEGG_BASE_URL, ORGANISM
 
 
 def kegg_get(endpoint: str) -> str:

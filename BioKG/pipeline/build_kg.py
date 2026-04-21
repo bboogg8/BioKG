@@ -5,10 +5,16 @@ Pathway -> Enzyme
 Pathway -> Compound
 """
 
-from config.config import ORGANISM
-from kegg.kegg_api import get_real_pathways, get_pathway_detail
-from kegg.kegg_parser import parse_pathway
-from neo4j_utils.neo4j_conn import get_driver
+try:
+    from BioKG.config.config import ORGANISM
+    from BioKG.kegg.kegg_api import get_real_pathways, get_pathway_detail
+    from BioKG.kegg.kegg_parser import parse_pathway
+    from BioKG.neo4j_utils.neo4j_conn import get_driver
+except ModuleNotFoundError:
+    from config.config import ORGANISM
+    from kegg.kegg_api import get_real_pathways, get_pathway_detail
+    from kegg.kegg_parser import parse_pathway
+    from neo4j_utils.neo4j_conn import get_driver
 
 
 def build_kegg_graph(limit=None):

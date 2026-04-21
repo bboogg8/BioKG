@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 # neo4j_conn.py
 from neo4j import GraphDatabase
-from ..config.config import NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
+
+try:
+    from BioKG.config.config import NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
+except ModuleNotFoundError:
+    from config.config import NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
 
 def get_driver():
     """

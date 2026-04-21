@@ -57,8 +57,12 @@ def parse_pathway(text: str):
 # 测试
 # ===========================
 if __name__ == "__main__":
-    from config.config import TEST_PATHWAY
-    from .kegg_api import get_pathway_detail
+    try:
+        from BioKG.config.config import TEST_PATHWAY
+        from BioKG.kegg.kegg_api import get_pathway_detail
+    except ModuleNotFoundError:
+        from config.config import TEST_PATHWAY
+        from .kegg_api import get_pathway_detail
 
     text = get_pathway_detail(TEST_PATHWAY)
     enzymes, compounds = parse_pathway(text)

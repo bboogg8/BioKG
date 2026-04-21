@@ -8,12 +8,20 @@ import time
 import requests
 import xml.etree.ElementTree as ET
 
-from ..config.config import (
-    PUBMED_BASE_URL,
-    PUBMED_ESEARCH_URL,
-    PUBMED_EFETCH_URL,
-    PUBMED_TOOL_EMAIL,
-)
+try:
+    from BioKG.config.config import (
+        PUBMED_BASE_URL,
+        PUBMED_ESEARCH_URL,
+        PUBMED_EFETCH_URL,
+        PUBMED_TOOL_EMAIL,
+    )
+except ModuleNotFoundError:
+    from config.config import (
+        PUBMED_BASE_URL,
+        PUBMED_ESEARCH_URL,
+        PUBMED_EFETCH_URL,
+        PUBMED_TOOL_EMAIL,
+    )
 
 def search_pubmed(term, retmax=1000):
     """
@@ -55,7 +63,20 @@ def fetch_abstract(pmid):
         time.sleep(0.1)
         response = requests.get(PUBMED_EFETCH_URL, params=params)
         response.raise_for_status()
-        return response.text
+        root = ET.fromstring(response.text)
+        abstract_nodes = root.findall(".//Abstract/AbstractText")
+        abstract_parts = []
+
+        for node in abstract_nodes:
+            label = node.attrib.get("Label")
+            text = "".join(node.itertext()).strip()
+            if not text:
+                continue
+            abstract_parts.append(f"{label}: {text}" if label else text)
+
+        if abstract_parts:
+            return " ".join(abstract_parts)
+        return None
     except Exception as e:
         print(f"? Failed to fetch abstract (PMID: {pmid}): {e}")
         return None
