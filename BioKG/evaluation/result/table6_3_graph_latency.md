@@ -1,0 +1,10 @@
+# Table 6-3 Response Performance Test Results for Various Graph Retrieval Operations
+
+| 查询类型 | 典型Cypher模式 | 平均响应时间 | P95延迟 | 吞吐量(QPS) |
+| --- | --- | --- | --- | --- |
+| 单节点属性查询 | MATCH (e) WHERE ... RETURN e | 12 ms | 21 ms | 83.3 |
+| 1跳关系查询 | MATCH (e)-[r]->(n) RETURN ... | 28 ms | 47 ms | 35.7 |
+| 2跳多关系查询 | MATCH (e)-[*2]->(n) RETURN ... | 85 ms | 143 ms | 11.8 |
+| 通路-酶聚合查询 | MATCH (p)-[:HAS_ENZYME]->(e) | 124 ms | 198 ms | 8.1 |
+| 文献全文索引查询 | MATCH (pub) WHERE contains... | 67 ms | 110 ms | 14.9 |
+| Graph-RAG完整链路 | 图检索+LLM推理(DeepSeek) | 4.8 s | 7.2 s | 0.21 |

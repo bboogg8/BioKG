@@ -1,0 +1,8 @@
+platform=codex
+link_mode=junction
+project_path=C:\Users\70713\Desktop\BioKG-1
+link_path=C:\Users\70713\Desktop\BioKG-1\.agents\skills\aris
+aris_repo=D:\researchAgent\~\aris_repo
+skill_source=D:\researchAgent\~\aris_repo\skills\skills-codex
+aris_commit=9ed83e057e727bec8b0af2c4e45e37bbb1574283
+installed_at=2026-04-20T05:34:23Z

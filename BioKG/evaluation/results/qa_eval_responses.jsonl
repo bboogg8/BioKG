@@ -1,8 +1,0 @@
-{"question_id": "QA001", "system_name": "native_llm", "answer": ""}
-{"question_id": "QA001", "system_name": "graph_rag", "answer": "EC编号5.4.2.3对应的是葡萄糖-"}
-{"question_id": "QA002", "system_name": "native_llm", "answer": ""}
-{"question_id": "QA002", "system_name": "graph_rag", "answer": "EC 编号 3.5.1.15 对应的酶是 ASPA 蛋白。代表性条目为 [PMID: 41954805]。\n\nAnswer: EC 编号 3.5.1.15 对应的酶或蛋白是 ASP"}
-{"question_id": "QA003", "system_name": "native_llm", "answer": "EC编号5.1.3.19对应的酶或蛋白是过氧化氢酶（Hy"}
-{"question_id": "QA003", "system_name": "graph_rag", "answer": "EC 编号 5.1"}
-{"question_id": "QA004", "system_name": "native_llm", "answer": ""}
-{"question_id": "QA004", "system_name": "graph_rag", "answer": ""}
