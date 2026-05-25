@@ -1,4 +1,0 @@
-interface:
-  display_name: "Reduce AIGC Writing"
-  short_description: "Make prose feel more natural and less AI sounding"
-  default_prompt: "Use $de-aigc-writing to rewrite this text so it sounds less formulaic and more natural while preserving the original meaning."

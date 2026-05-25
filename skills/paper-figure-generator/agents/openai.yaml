@@ -1,4 +1,0 @@
-interface:
-  display_name: "Paper Figure Generator"
-  short_description: "Turn scientific paper content into faithful figure plans"
-  default_prompt: "Use $paper-figure-generator to turn this paper content into a figure concept, layout, and image prompt."
